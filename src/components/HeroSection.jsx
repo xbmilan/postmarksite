@@ -44,7 +44,7 @@ const HeroSection = () => {
       <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
         {/* Main headline */}
         <h1 className="font-serif text-5xl md:text-7xl font-bold text-ink-800 mb-6 text-shadow leading-tight">
-          Stories Worth Waiting For,
+          Stories Worth Waiting For you,
           <span className="block text-vintage-red">Delivered to Your Mailbox</span>
         </h1>
         
